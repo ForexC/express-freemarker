@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/leeluolee/express-freemarker",
   "dependencies": {
-    "mkdirp": "^0.5.1"
+    "mkdirp": "^1.0.4"
   }
 }
